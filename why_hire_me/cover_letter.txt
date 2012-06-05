@@ -1,0 +1,9 @@
+I am a pioneer, a software engineer and I actually like Ruby and am interested in 
+applying some of its unique programming constructs in solving problems and developing
+Ruby programs.
+
+My user level for github : novice
+user level for Ruby : level 2
+user level for RAILS : level 1-2
+User level for MongoDB : beginner
+user level of MySQL : level 4

@@ -1,0 +1,9 @@
+On a windows-based PC I usually install cygwin with a bash shell and with vi.
+
+On windows I use Word 2007 and Paint
+
+I do not like software and processes running on windows that simply take up CPU time.
+
+I like using Eclipse IDE but only if required. At present I use vi on cygwin to develop ruby code and tests.
+
+

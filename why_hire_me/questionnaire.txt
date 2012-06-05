@@ -1,25 +1,34 @@
 How many years of Web development experience do you have?
+3
 
 
 How many years of JavaScript experience do you have?
+2
 
 
 How many years of Ruby experience do you have?
+2
 
 
 How many years of Rails development experience do you have?
+1
 
 
 What are your opinions on Agile software development?
+Agile is a software-development-centric process and the methodology minimizes the need and costs associated with project management, people management and tracking. Two unique contributions of Agile are iterative development and open communication. Two shortfalls of Agile - developer burnout, high levels of stress and risk of overengineering and business failure. 
 
 
 TDD or BDD?
+Test Driven development definitely. Test driven development pulls a software system towards business goals. Both Behavior Driven Design and Domain Driven Development preserve classic system behavior and therefore often preserve and propagate the hidden flaws in classic systems. TDD is process that bridges business goals with technology limitations better than BDD and DDD.
 
 
 What are you looking for in a job?
+A workplace culture where I can do my Ruby work and contribute to the team as a mentor in preparing the team for 21st century workplace, 21st century culture and 21st century software
 
 
 Are you legal to work in the US?
+I am a US citizen and have previously held Secret Security Clearance.
 
 
 When can you start?
+Immediately - in one to two weeks.
